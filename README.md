@@ -411,7 +411,7 @@ The inspiration for the website was mainly taken from the Coding Institute lectu
 Below are other resources I used while building the project:
 
 1. [BezeBee for ReadMe inspiration](https://github.com/bezebee)
-2. [Dylan Shine for exceptional ReadMe inspiration and help ](https://github.com/DylanThomasShine/bulitt_creations)
+2. [Dylan Shine for exceptional inspiration and help through out the year ](https://github.com/DylanThomasShine/)
 3. [Code Institute Support team](https://learn.codeinstitute.net/ci_support/diplomainsoftwaredevelopment/support)
 4. [Slack](https://slack.com/intl/en-ie/)
 
