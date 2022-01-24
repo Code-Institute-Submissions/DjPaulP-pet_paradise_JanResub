@@ -340,6 +340,7 @@ input[name='q']::placeholder {
     height: 50px;
 }
 
+
 .social-networks {
     text-align: center;
     margin-bottom: 30px;
@@ -363,5 +364,5 @@ input[name='q']::placeholder {
 
 .bulitt{
     text-align: center;
-    
 } 
+
