@@ -33,8 +33,8 @@ I used Sureoak to check the performance of the site and although it is not perfe
 
 # <strong>Validation</strong> Testing
 
-When testing for html it contained a lot of python code in it and as these results show I filtered the python code that showed as errors in the validator and I was left without any errors in the html code. I did this across the board while testing and when I had errors for the code I was testing I resolved them and the results are as follows. 
-
+When testing for html it contained duplicate id's i resolved this issue and also type for javascript was not required and the site passes the HTML Validator as shown. 
+![HTML Validator](/media/htmlval.JPG)
 <br>
 
 ## <strong>Line</strong> too long

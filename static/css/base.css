@@ -24,6 +24,9 @@ body {
     color: #799799;
     text-shadow: 1px 1px;
 }
+.text-muted-black {
+    color: black;
+}
 
 .main-logo-link {
     width: fit-content;
