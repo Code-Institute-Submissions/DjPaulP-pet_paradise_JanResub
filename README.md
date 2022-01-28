@@ -137,7 +137,7 @@ The main color used throughout the page is pale and light, it's called light sla
 
 ## Database Relationship Schema
 
-![Database Relationship Schema](/media/schema.png) 
+![Database Relationship Schema](/media/petparadise_schema.png) 
 
 <br><br>
 

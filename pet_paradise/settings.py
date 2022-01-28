@@ -50,11 +50,27 @@ INSTALLED_APPS = [
     'profiles',
     'contact',
     'blog',
+    'django_extensions',
 
     # Other
     'crispy_forms',
     'storages',
 ]
+
+#for data schema
+GRAPH_MODELS = {
+  'all_applications': True,
+  'group_models': True,
+  "app_labels": [
+        "bag",
+        "blog",
+        "checkout",
+        "contact",
+        "products",
+        "profiles",
+    ],
+}
+
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
