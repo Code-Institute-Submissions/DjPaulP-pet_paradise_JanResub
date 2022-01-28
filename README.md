@@ -178,14 +178,16 @@ All pages share navigation bar with logo to the left, which once clicked on, tak
 ![Database Relationship Schema](/media/logo.JPG) 
 <br>
 
-In the middle there are five call to action buttons:<br>
-![Database Relationship Schema](/media/cta_buttons.JPG) 
+In the middle there are seven call to action buttons:<br>
+![Database Relationship Schema](/media/cta_buttons2.JPG) 
 <br>
 - All Products - Option that returns a dropdown list with Items sorted in accordance to price, rating, category and all products.
 - Cat -  Option that returns a dropdown list with all cat Items sorted in accordance to Toys, Food and All Cat products
 - Dog -  Option that returns a dropdown list with all dog Items sorted in accordance to Toys, Food, Exercise, Food and All Dog products
 - Other -  Option that returns a dropdown list with other Items sorted in accordance to Cages, Tanks, Food and All Other products
 - Special Offers -  Option that returns a dropdown list with Items sorted in accordance to New Arrivals, Deals, Clearance and All Specials
+- Contact - This opens the contact form for visitors to send messages to the store owner.
+- Blog - Useful information for Pet owners and also ability to leave a comment on a blog once the user is logged in
 <br>
 
 To the right corner in the Main view there are two CTA buttons: My Account and a Shopping Bag.<br>
@@ -194,14 +196,18 @@ To the right corner in the Main view there are two CTA buttons: My Account and a
 - My Account:
 For the registered and while logged in user that is not a superuser, they will be able to Check out their Profile, which contains history of purchases. By clicking on this option, the logged in user will be able to log out from their session.
 For the regisered and logged in as a superuser, the user will be able to do all of the above plus Manage all products of the ecommerce site. 
-- Shopping Bag.
+- Shopping Bag:
 This option is available to both logged in and not logged in users. The difference is, only a logged in user will be able to successfully check out with the items, as this option is for the time being only made available to the logged in user.
 <br>
-
+- Footer:
+At the bottom of the homepage there is a footer with links to social media. This only appears on the homepage as it looks too cluttered on shopping and product pages.<br>
+![Database Relationship Schema](/media/footer.JPG)
+<br>
 ## Future Features
 
-- to have a comments section so users can leave real world experiences of a product.
+- to have a reviews section so users can leave real world experiences of a product.
 - to have a sign up page for a newsletter and special offers email.
+- to send emails from backend to gmail from contact form
 
 <br><br>
 
@@ -246,7 +252,9 @@ This option is available to both logged in and not logged in users. The differen
 |   |  Click on the Delete option |  <ul><li>Product is immediately deleted and a success toast confirming deletion is rendered in the upper right corner of the page </li></ul>|
 | Adding a Product to the bag  |  Click on the Product and click Add to Bag |  <ul><li>Bag total updates to the correct amount, success toast confirms the Creation was added to the bag </li></ul> |
 | Navigating from Product Detail back to All Products |  Click on the Continue Browsing button |  <ul><li>A page with all the Products is rendered</li></ul> |
-| Checking out  |  Click on the Shopping Bag, click on Secure Checkout |  <ul><li>Non registered user - a sign in page renders with option to register, if user is not yet registered</li><li>Registered User - A Checkout page is rendered with most information saved as per users account. User can also see the Order Summary to the right of the form</li><li>Entered card details and name, after which clicked on the Complete Transaction button</li><li>A thank you page is rendered, with a summary of order as well as the success toast renders in upper right corner</li><li>Confirmation email arrives to the email box</li></ul> |
+| Checking Out |  Click on the Shopping Bag, click on Secure Checkout |  <ul><li>Non registered user - a sign in page renders with option to register, if user is not yet registered</li><li>Registered User - A Checkout page is rendered with most information saved as per users account. User can also see the Order Summary to the right of the form</li><li>Entered card details and name, after which clicked on the Complete Transaction button</li><li>A thank you page is rendered, with a summary of order as well as the success toast renders in upper right corner</li><li>Confirmation email arrives to the email box</li></ul> |
+| Contact  |  Click on the Contact form |  <ul><li>Opens the contact form</li><li>Users input their details and message</li><li>Send message to the backend</li><li>All works as intended</li></ul> |
+| Blog  |  Click on Blog Posts |  <ul><li>Opens the Blogs short view page</li><li>Clicking on a blog opens the full blog</li><li>Logged in users can leave a comment on the blog</li><li>All works as intended</li></ul> |
 
 ### For testing the Stripe checkout use the following:
 
@@ -415,8 +423,9 @@ Below are other resources I used while building the project:
 3. [Code Institute Support team](https://learn.codeinstitute.net/ci_support/diplomainsoftwaredevelopment/support)
 4. [Slack](https://slack.com/intl/en-ie/)
 
-<strong>Johann</strong> in Code Institute for his help online<br>
+<strong>Johann & Rebecca</strong> in Code Institute for their help online<br>
 <strong>All tutors</strong> in Code Institute who took the time to help and guide me<br>
+<strong>Precious Ijege</strong> my mentor, for all the advice and feedback. It was invaluable<br>
 
 
 ### All images for the store poducts were taken from amazon (https://amazon.co.uk)

@@ -116,6 +116,20 @@ This is the result of the models.py file in the bag app. It's showing a continua
 <br>
 
 <br>
+<details><summary><strong>Blog</strong> app</summary>
+<br>
+
+![Validation Results](/media/blogapp.JPG)</details> 
+<br>
+
+<br>
+<details><summary><strong>Contact</strong> app</summary>
+<br>
+
+![Validation Results](/media/contactapp.JPG)</details> 
+<br>
+
+<br>
 <details><summary><strong>SCREEN SIZE</strong> RESPONSIVNESS</summary>
 <br>
 
