@@ -422,6 +422,7 @@ Below are other resources I used while building the project:
 2. [Dylan Shine for exceptional inspiration and help through out the year ](https://github.com/DylanThomasShine/)
 3. [Code Institute Support team](https://learn.codeinstitute.net/ci_support/diplomainsoftwaredevelopment/support)
 4. [Slack](https://slack.com/intl/en-ie/)
+5. [Codewithstein for inspiration with contact and blog apps](https://www.youtube.com/channel/UCfVoYvY8BfTDeF63JQmQJvg)
 
 <strong>Johann & Rebecca</strong> in Code Institute for their help online<br>
 <strong>All tutors</strong> in Code Institute who took the time to help and guide me<br>
