@@ -24,6 +24,7 @@ body {
     text-transform: uppercase;
     color: #799799;
     text-shadow: 1px 1px;
+    font-weight: 700;
 }
 .text-muted-black {
     color: black;
